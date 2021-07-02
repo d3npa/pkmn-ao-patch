@@ -1,4 +1,4 @@
-パッチ用のスプライト画像
+# パッチ用のスプライト画像
 
 ## 変換
 
@@ -14,7 +14,7 @@
 
 ## クレジット
 
-`orig/` 以下の画像ファイルと `/tools/pkmncompress.c` は [pret/pokered](https://github.com/pret/pokered) からもらいました。`new/` フォルダ以下にあるブルーのスプライトはDeviantArtの[投稿](https://www.deviantart.com/ghost-missingno/art/Blue-Sprites-for-R-G-B-Y-339796334)をモデルとし、GIMPで作り直しました。
+`orig/` 以下の画像ファイルと `/tools/pkmncompress.c` は [pret/pokered](https://github.com/pret/pokered) から手に入れました。 `new/` フォルダ以下にあるブルーのスプライトは DeviantArt の[投稿](https://www.deviantart.com/ghost-missingno/art/Blue-Sprites-for-R-G-B-Y-339796334)をモデルとし、GIMPで作り直しました。
 
 ## 参考
 
