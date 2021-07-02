@@ -1,19 +1,23 @@
-This folder contains sprite files for patching.
+パッチ用のスプライト画像
 
-## Converting
+## 変換
 
-Use `./make.sh` to convert, `./make.sh clean` to clean.
+スプライト画像を変換するために、便利なシェルスクリプトを用意しました。
 
-## Dependencies
+- `./make.sh` でスプライトファイルを変換する
+- `./make.sh clean` で掃除する
+
+## 依存関係
 
 - cc
-- [rgbds](https://github.com/gbdev/rgbds) for rgbgfx
+- [rgbds](https://github.com/gbdev/rgbds) (rgbgfxが入っている）
 
-## Credit
+## クレジット
 
-The sprites in `orig/` and `tools/pkmncompress.c` are from [pret/pokered](https://github.com/pret/pokered). The sprites under the `new/` folder were modeled after a [post](https://www.deviantart.com/ghost-missingno/art/Blue-Sprites-for-R-G-B-Y-339796334) on DeviantArt and recreated in GIMP by myself.
+`orig/` 以下の画像ファイルと `/tools/pkmncompress.c` は [pret/pokered](https://github.com/pret/pokered) からもらいました。`new/` フォルダ以下にあるブルーのスプライトはDeviantArtの[投稿](https://www.deviantart.com/ghost-missingno/art/Blue-Sprites-for-R-G-B-Y-339796334)をモデルとし、GIMPで作り直しました。
 
-## Links
+## 参考
+
 - https://github.com/pret/pokered
 - https://github.com/d3npa/pokeblue
 - https://www.deviantart.com/ghost-missingno/art/Blue-Sprites-for-R-G-B-Y-339796334
