@@ -1,5 +1,9 @@
 This folder contains sprite files for patching.
 
+## Converting
+
+Use `./make.sh` to convert, `./make.sh clean` to clean.
+
 ## Dependencies
 
 - cc
