@@ -1,4 +1,4 @@
-This folder contains sprite files for patching.
+# Sprites files for patching
 
 ## Converting
 
